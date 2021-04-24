@@ -1,0 +1,5 @@
+s1=frozenset([1,2,3,4])
+s2=frozenset([3,4,5,6])
+print(s1|s2)
+print(s1&s2)
+print(s1^s2)
